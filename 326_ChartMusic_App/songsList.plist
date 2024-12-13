@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LastSong</key>
+	<array>
+		<string>A Bar Song (Tipsy)</string>
+		<string>Die With A Smile</string>
+		<string>Birds Of A Feather</string>
+		<string>Espresso</string>
+		<string>Lose Control</string>
+		<string>I Had Some Help</string>
+		<string>Taste</string>
+		<string>Beautiful Things</string>
+		<string>Love Somebody</string>
+		<string>Sticky</string>
+	</array>
+	<key>FamousSong</key>
+	<array>
+		<string>A Bar Song (Tipsy)</string>
+		<string>Uptown Funk</string>
+		<string>bad guy</string>
+		<string>Nonsense</string>
+		<string>Lose Control</string>
+		<string>Wow.</string>
+		<string>Nonsense</string>
+		<string>Ghost Town</string>
+		<string>Wasted On You</string>
+		<string>WUSYANAME</string>
+	</array>
+</dict>
+</plist>
